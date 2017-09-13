@@ -1,8 +1,6 @@
 # ec601_ass1
-for bu ec601 assignment 1
-hello everyone
-
-start to work today.
-today today today.
-
-unhappy with GitHub!!
+Hello Everyone!
+This is the page for EC601(Fall 2017) A1 Team 10 Assignment 1
+We have two team members:
+Qinjin Jia qjia@bu.edu
+Yuchen Nie ycnie@bu.edu
