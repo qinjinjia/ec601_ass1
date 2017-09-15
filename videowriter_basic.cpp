@@ -56,7 +56,7 @@ int main(int, char**)
         // encode the frame into the videofile stream
         writer.write(src);
         // show live and wait for a key with timeout long enough to show images
-        imshow("Live", src);
+        imshow("EC601_A1_Team10", src);
         if (waitKey(5) >= 0)
             break;
     }
