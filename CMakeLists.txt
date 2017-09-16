@@ -8,7 +8,7 @@ SET(OPENCV_CPP_SAMPLES_REQUIRED_DEPS opencv_core opencv_imgproc opencv_flann
     opencv_objdetect opencv_photo opencv_features2d opencv_calib3d
     opencv_stitching opencv_videostab opencv_shape ${OPENCV_MODULES_PUBLIC} ${OpenCV_LIB_COMPONENTS})
 
-ocv_check_dependencies(${OPENCV_CPP_SAMPLES_REQUIRED_DEPS})
+
 
 
 if(BUILD_EXAMPLES AND OCV_DEPENDENCIES_FOUND)
