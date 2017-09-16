@@ -21,6 +21,10 @@ int main()
         for(;;)
         {
             capture >> image;
+            cvtColor(image, image, CV_BGR2GRAY);
+            GaussianBlur(image, image, Size(7, 7), 1.5, 1.5);
+            Canny(image, image, 0, 30, 3);
+
             if(image.empty())
                 break;
             drawText(image);
