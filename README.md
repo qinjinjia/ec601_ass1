@@ -7,9 +7,9 @@
   
   We have two team members:
   
-  :boy: Qinjin Jia qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
+  :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
-  :girl: Yuchen Nie  ycnie@bu.edu  :point_right:[@github/ycnie](https://github.com/ycnie)
+  :girl: **Yuchen Nie**  ycnie@bu.edu  :point_right:[@github/ycnie](https://github.com/ycnie)
   
   :mailbox_closed:Please feel free to contact us, if you have any suggestions or concerns. 
   
