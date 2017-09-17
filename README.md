@@ -1,4 +1,4 @@
-# EC601_Assignment 1 :thumbsup::thumbsup::thumbsup:
+# EC601_Assignment 1 :trollface::trollface::trollface:
 ## Brief Introduction
   Hello Everyone! 
   
