@@ -16,9 +16,9 @@
 ## Project Description :bowtie:
    The aim of the project:
        
-      * Be familiar with software code management using Github
+   * Be familiar with software code management using Github
              
-      * Practice agile software development with a colleague
+   * Practice agile software development with a colleague
        
    [OpenCV](https://github.com/opencv/opencv)
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
