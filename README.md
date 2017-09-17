@@ -10,4 +10,4 @@
   
   Yuchen Nie ycnie@bu.edu
 
-![image](https://github.com/qinjinjia/ec601_ass1/blob/master/original.png)
+![image](https://github.com/qinjinjia/ec601_ass1/blob/master/original.png =200x200)
