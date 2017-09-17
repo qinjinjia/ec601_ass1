@@ -22,6 +22,7 @@
    
    #### The project is based on    :link:[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv) and utilizing C++ programming language.
 
+   #### Some samples are picked from the OpenCV [Samples folder](https://github.com/opencv/opencv/tree/master/samples)
        
    
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
