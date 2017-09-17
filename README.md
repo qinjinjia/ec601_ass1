@@ -22,7 +22,7 @@
    
    #### :waxing_crescent_moon: The project is based on    :link:[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv) and utilizing C++ programming language.
 
-   #### :first_quarter_moon: Some samples are picked from the OpenCV [Samples folder:briefcase:](https://github.com/opencv/opencv/tree/master/samples)
+   #### :first_quarter_moon: Some samples are picked from the OpenCV [Samples folder :briefcase:](https://github.com/opencv/opencv/tree/master/samples)
   
    #### :waxing_gibbous_moon:
        
