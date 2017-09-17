@@ -9,3 +9,5 @@
   Qinjin Jia qjia@bu.edu
   
   Yuchen Nie ycnie@bu.edu
+
+https://github.com/qinjinjia/ec601_ass1/blob/master/original.png
