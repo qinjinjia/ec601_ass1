@@ -24,7 +24,7 @@
 
 :first_quarter_moon: Some samples are picked from the OpenCV **[Samples folder :briefcase:](https://github.com/opencv/opencv/tree/master/samples)** in order to conducting the Homework(i.e. practice Pull, Push, Branching, Merging and Conflict resolutions), [create_mask.cpp](https://github.com/opencv/opencv/blob/master/samples/cpp/create_mask.cpp) for instance.
   
-:waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each c++ file.
+:waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
        
 :full_moon: Here is a **comparison** of the outputs before and after modifying the code:
    
