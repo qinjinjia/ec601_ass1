@@ -10,5 +10,6 @@
   
   Yuchen Nie ycnie@bu.edu
 
-![](https://github.com/qinjinjia/ec601_ass1/blob/master/original.png =100x100)
-<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="200" height="200">
+<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
+<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
+
