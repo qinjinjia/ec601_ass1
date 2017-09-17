@@ -18,7 +18,7 @@
        
    * Be familiar with **software code management** using Github
              
-   * Practice **Agile software development (Scrum)** with a colleague
+   * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
    :link:
        
