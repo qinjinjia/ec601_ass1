@@ -20,7 +20,7 @@
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
-   #### The project is based on    :link:[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv) and utiling C++ programming language.
+   #### The project is based on    :link:[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv) and utilizing C++ programming language.
 
        
    
