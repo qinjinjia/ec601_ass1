@@ -6,9 +6,9 @@
   
   We have two team members:
   
-  Qinjin Jia qjia@bu.edu @qinjinjia
+  Qinjin Jia qjia@bu.edu @github/qinjinjia
   
-  Yuchen Nie ycnie@bu.edu @ycnie
+  Yuchen Nie ycnie@bu.edu @github/ycnie
 
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
