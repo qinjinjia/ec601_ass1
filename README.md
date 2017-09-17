@@ -29,8 +29,7 @@
    #### :full_moon: Here is a comparison between before and after modifying the code:
    Before modifying the code:  After modifying the code:
    
-<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="250" height="250">
-<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="250" height="250">
+<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="250" height="250"> <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="250" height="250">
 
 ## Instruction :laughing:
 
