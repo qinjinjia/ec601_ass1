@@ -11,6 +11,8 @@
   
   :girl: Yuchen Nie  ycnie@bu.edu  :point_right:[@github/ycnie](https://github.com/ycnie)
   
+  :mailbox_closed:Please feel free to contact us, if you have any suggestions or concerns. 
+  
 ## Project Description
 
 
