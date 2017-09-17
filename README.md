@@ -2,8 +2,8 @@
 ## Brief Introduction
   Hello Everyone! 
   
-  This is the page for EC601(Fall 2017) A1 Team 10 Assignment 1
-  
+  This is the page for EC601(Fall 2017) A1 Team 10 Assignment 1 @buec601a1team10
+  
   We have two team members:
   
   Qinjin Jia qjia@bu.edu @github/qinjinjia
