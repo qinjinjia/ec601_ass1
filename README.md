@@ -2,7 +2,7 @@
 ## Brief Introduction
   Hello Everyone! 
   
-  This is the page for EC601(Fall 2017) A1 Team 10 Assignment 1 @buec601a1team10
+  This is the page for EC601(Fall 2017) A1 Team 10 Assignment 1 @github/buec601a1team10
   
   We have two team members:
   
