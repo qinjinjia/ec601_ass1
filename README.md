@@ -14,7 +14,7 @@
   :mailbox_closed:Please feel free to contact us, if you have any suggestions or concerns. 
   
 ## Project Description :bowtie:
-  :waxing_crescent_moon: #### The aim :golf: of the project:
+   #### The aim :golf: of the project:
        
    * Be familiar with **software code management** using Github
              
