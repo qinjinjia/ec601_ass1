@@ -1,4 +1,5 @@
-# ec601_ass1
+# EC601_Assignment 1 :thumbsup::thumbsup::thumbsup:
+## Brief Introduction
   Hello Everyone! 
   
   This is the page for EC601(Fall 2017) A1 Team 10 Assignment 1
