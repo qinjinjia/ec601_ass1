@@ -13,7 +13,7 @@
   
   :mailbox_closed:Please feel free to contact us, if you have any suggestions or concerns. 
   
-## Project Description
+## Project Description :bowtie:
 
 
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
