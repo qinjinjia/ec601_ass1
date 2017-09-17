@@ -7,7 +7,7 @@
   We have two team members:
   
   Qinjin Jia qjia@bu.edu @qinjinjia
-  
+  
   Yuchen Nie ycnie@bu.edu @ycnie
 
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
