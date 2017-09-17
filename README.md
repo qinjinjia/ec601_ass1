@@ -7,9 +7,9 @@
   
   We have two team members:
   
-  :boy: Qinjin Jia qjia@bu.edu  :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
+  :boy: Qinjin Jia qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
-  :girl: Yuchen Nie  ycnie@bu.edu :point_right:[@github/ycnie](https://github.com/ycnie)
+  :girl: Yuchen Nie  ycnie@bu.edu  :point_right:[@github/ycnie](https://github.com/ycnie)
 
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
