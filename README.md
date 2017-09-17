@@ -22,11 +22,11 @@
    
 :waxing_crescent_moon: The project is based on    :link:**[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv)** and utilizing C++ programming language.
 
-:first_quarter_moon: Some samples are picked from the OpenCV [Samples folder :briefcase:](https://github.com/opencv/opencv/tree/master/samples) in order to conducting the Homework(i.e. practice Pull, Push, Branching, Merging and Conflict resolutions), [create_mask.cpp](https://github.com/opencv/opencv/blob/master/samples/cpp/create_mask.cpp) for instance.
+:first_quarter_moon: Some samples are picked from the OpenCV **[Samples folder :briefcase:](https://github.com/opencv/opencv/tree/master/samples)** in order to conducting the Homework(i.e. practice Pull, Push, Branching, Merging and Conflict resolutions), [create_mask.cpp](https://github.com/opencv/opencv/blob/master/samples/cpp/create_mask.cpp) for instance.
   
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each c++ file.
        
-:full_moon: Here is a comparison of the outputs before and after modifying the code:
+:full_moon: Here is a **comparison** of the outputs before and after modifying the code:
    
    **Before modifying the code: :point_down:      After modifying the code: :point_down:**
    
