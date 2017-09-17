@@ -26,7 +26,7 @@
   
    #### :waxing_gibbous_moon:
        
-   #### :full_moon: 
+   #### :full_moon: Here is a comparison between before and after modifying the code
    
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
