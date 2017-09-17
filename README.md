@@ -20,9 +20,10 @@
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
+   #### The project is based on [OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv)
    :link:
        
-   [OpenCV](https://github.com/opencv/opencv)
+   
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
 
