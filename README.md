@@ -14,15 +14,15 @@
   :mailbox_closed:Please feel free to contact us, if you have any suggestions or concerns. 
   
 ## Project Description :bowtie:
-   #### The aim :golf: of the project:
+   #### :new_moon: The aim :golf: of the project:
        
    * Be familiar with **software code management** using Github
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
-   #### The project is based on    :link:[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv) and utilizing C++ programming language.
+   #### :waxing_crescent_moon: The project is based on    :link:[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv) and utilizing C++ programming language.
 
-   #### Some samples are picked from the OpenCV [Samples folder](https://github.com/opencv/opencv/tree/master/samples)
+   #### :first_quarter_moon: Some samples are picked from the OpenCV [Samples folder](https://github.com/opencv/opencv/tree/master/samples)
        
    
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">
