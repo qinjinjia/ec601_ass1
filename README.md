@@ -34,8 +34,10 @@
 
 ## Instruction :laughing:
    
-   ####
-   
+#### Run the code
+* After installing the OpenCV
+
+   #### 
 ## More Links :link: 
    #### Trello: https://trello.com/b/4fbOJMFC/buec601a1team10hw1
 
