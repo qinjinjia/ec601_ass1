@@ -40,6 +40,8 @@
   * However, the choice of OS and IDE are subject to users, the users could choose OS and IDE they preferred.
   * There are many tutorials available online for installing OpenCV on your computer, the user could find a suitable one and follow the instructions to install OpenCV on computers.
 
+#### Run the code
+  * After installing the OpenCV，the users could download the modified code from our repository.
 
 
 ## More Links :link: 
