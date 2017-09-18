@@ -1,5 +1,5 @@
 # EC601_Assignment 1 :thumbsup::thumbsup::thumbsup:
-## Brief Introduction:sunglasses:
+## Brief Introduction :sunglasses:
   Hello Everyone! :trollface::trollface::trollface::trollface:
   
   This is the page for **EC601(Fall 2017) A1 Team 10 Assignment 1** 
