@@ -43,7 +43,9 @@
 #### Run the code
   * After installing the OpenCV，the users could download the modified code from our repository.
   * Then, add the code into your project. If the program need a input diagram, the users could download [Lenna.png](https://github.com/qinjinjia/ec601_ass1/blob/master/original.png) from our repository and add it into your project folder.
+  
 
+#### Enjoy the code and have fun!
 
 ## More Links :link: 
    #### Trello: https://trello.com/b/4fbOJMFC/buec601a1team10hw1
