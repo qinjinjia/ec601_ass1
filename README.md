@@ -37,7 +37,9 @@
 #### Run the code
 * After installing the OpenCV
 
-   #### 
+   #### Prerequesite and installation
+   * In order to run the code, the OpenCV must be installed on your computer firstly. 
+
 ## More Links :link: 
    #### Trello: https://trello.com/b/4fbOJMFC/buec601a1team10hw1
 
