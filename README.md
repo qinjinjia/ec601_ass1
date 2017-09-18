@@ -39,7 +39,9 @@
 
   #### Prerequesite and installation
   * In order to run the code, the OpenCV must be installed on your computer firstly. 
-  * The team chose the Windows 10 as the OS, Visual Studio 2015 as the IDE and utilized the C++ 
+  * The team chose the Windows 10 as the OS, Visual Studio 2015 as the IDE and utilized the C++ programming language.
+  * However, the choice of OS and IDE are subject to users, the users could choose OS and IDE they preferred.
+
 
 ## More Links :link: 
    #### Trello: https://trello.com/b/4fbOJMFC/buec601a1team10hw1
