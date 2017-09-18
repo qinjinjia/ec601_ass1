@@ -1,6 +1,6 @@
 # EC601_Assignment 1 :thumbsup::thumbsup::thumbsup:
 ## Brief Introduction:sunglasses:
-  Hello Everyone! :trollface::trollface::trollface:
+  Hello Everyone! :trollface::trollface::trollface::trollface:
   
   This is the page for **EC601(Fall 2017) A1 Team 10 Assignment 1** 
   [@github/buec601a1team10](https://github.com/orgs/buec601a1team10/dashboard)
@@ -14,8 +14,8 @@
   :mailbox_closed:Please feel free to contact us, if you have any suggestions or concerns. 
   
 ## Project Description :bowtie:
-:new_moon: The aim :golf: of the project:
-       
+:new_moon: The aim :golf: of the project：
+       
    * Be familiar with **software code management** using Github
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
