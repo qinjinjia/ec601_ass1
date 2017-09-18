@@ -35,7 +35,7 @@
 ## Instruction :laughing:
    
 #### Run the code
-* After installing the OpenCV
+* After installing the OpenCV，
 
    #### 
 ## More Links :link: 
