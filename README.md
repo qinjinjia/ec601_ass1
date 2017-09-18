@@ -5,7 +5,7 @@
   This is the page for **EC601(Fall 2017) A1 Team 10 Assignment 1** 
   [@github/buec601a1team10](https://github.com/orgs/buec601a1team10/dashboard)
   
-  
+  We have two team members:
   
   :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
@@ -34,7 +34,7 @@
 
 ## Instruction :laughing:
 
-#### Prerequesite and installation
+#### Prerequesite and installation:open_mouth:
   * In order to run the code, the OpenCV must be installed on your computer firstly. 
   * The team chose the Windows 10 as the OS, Visual Studio 2015 as the IDE and utilized the C++ programming language.
   * However, the choice of OS and IDE are subject to users, the users could choose OS and IDE they preferred.
