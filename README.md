@@ -28,7 +28,7 @@
        
 :full_moon: Here is a **comparison** of the outputs before and after modifying the code:
    
-   **Before modifying the code: :point_down:      After modifying the code: :point_down:**
+   **Before modifying the code: :point_down:  After modifying the code: :point_down:**
    
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">               <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
 
@@ -45,7 +45,7 @@
   * Then, add the code into your project. If the program need a input diagram, the users could download [Lenna.png](https://github.com/qinjinjia/ec601_ass1/blob/master/original.png) from our repository and add it into your project folder.
   
 
-#### Enjoy the code and have fun!
+#### Enjoy the code and have fun!:wink::wink:
 
 :beers::beers::beers:
 
