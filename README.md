@@ -33,14 +33,6 @@
 <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">               <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
 
 ## Instruction :laughing:
-
-#### Prerequesite and installation
-
-* In order to run the code, the OpenCV must be installed on your computer firstly. 
-* The team chose the Windows 10 as the OS, Visual Studio 2015 as the IDE and utilized the C++ programming language. 
-* However, the choice of OS and IDE are subject to users, the users could choose OS and IDE they preferred.  
-* There are many tutorials available online for installing OpenCV on your computer, the user could find a suitable one and follow the instructions to install OpenCV on computers.  
-        
    
    ####
    
