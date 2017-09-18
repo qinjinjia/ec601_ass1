@@ -16,7 +16,7 @@
 #include <iostream>
 #include <stdlib.h>
 
-using namespace std;
+
 using namespace cv;
 
 Mat img0, img1, res1, final;
